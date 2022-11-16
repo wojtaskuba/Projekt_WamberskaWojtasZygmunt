@@ -1,0 +1,19 @@
+Apps,Liczba występów,
+Starter,Liczba występów od 1. minuty,
+Mins,Liczba minut spędzonych na boisku,
+Goals,Liczba strzelonych goli,
+Shots,Liczba oddanych strzałów,
+OnTarShots,Liczba oddanych strzałów celnych na bramkę,
+PenGoals,Liczba goli z rzutów karncyh,
+SuccesfulDribbles,Liczba udanych dryblingów,
+Assists,Liczba asyst,"podanie do zawodnika z tej samej drużyny, po którym jest zdobyta bramka (tzw. gol)."
+AccPasses,Liczba dokładnych podań,
+KeyPasses,Liczba kluczowych podań,"podanie, które powoduje, że inny zawodnik ma: albo szansę na strzał, albo na zdobycie bramki."
+Fouls,Liczba fauli,
+WasFouled,Ile razy gracz był faulowany,
+YellowCards,Żółte kartki,
+RedCards,Czerwone kartki,
+RecBalls,Liczba odbiorów piłki,
+Tackles,Liczba wykonanych wślizgów,
+CleanSheets,Liczba czystych kont,"na ""zero"" z tyłu"
+Saves,Liczba obronionych strzałów,tylko dla bramkarzy
