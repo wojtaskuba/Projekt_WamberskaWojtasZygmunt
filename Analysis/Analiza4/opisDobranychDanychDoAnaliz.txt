@@ -1,0 +1,21 @@
+Opis wybranych zawodników i statystyk na potrzeby kolejnych analiz:
+
+1. Zestawy zawodników:
+
+TeamSet1 - 15 zawodników z najdłuższym czasem gry w sezonie (niezależnie od pozycji w drużynie)
+TeamSet1 - 13 zawodników z najdłuższym czasem gry w sezonie (z pominięciem bramkarzy)
+
+2. Zestawy statystyk:
+
+zestaw0 - wszystkie dostępne statystyki - ['POS','Goals','Shots','OnTarShots','PenGoals','SuccesfulDribbles','Assists','AccPasses','KeyPasses','Fouls','WasFouled','YellowCards','RedCards','RecBalls','Tackles','CleanSheets', 'Saves']
+zestaw1 - wszystkie statystyki, poza tymi dotyczącymi samych bramkarzy i liczbą minut gry - ['POS','Goals','Shots','OnTarShots','PenGoals','SuccesfulDribbles','Assists','AccPasses','KeyPasses','Fouls','WasFouled','YellowCards','RedCards','RecBalls','Tackles','CleanSheets']
+zestaw2 - statystyki najbardziej skorelowane w wynikiem w rankingu i końcową punktacją - ['Goals','Shots','OnTarShots','Assists','AccPasses','KeyPasses','CleanSheets']
+
+Zróżnocowanie dobranych zawodników i statystyk na potrzeby kolejnych analiz:
+
+Analiza4-0 - teamSet1, zestaw 0
+Analiza4-1 - teamSet1, zestaw 1
+Analiza4-2 - teamSet1, zestaw 2
+Analiza4-4 - teamSet2, zestaw 1
+Analiza4-5 - teamSet2, zestaw 2
+
