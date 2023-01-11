@@ -13,9 +13,8 @@ zestaw2 - statystyki najbardziej skorelowane w wynikiem w rankingu i końcową p
 
 Zróżnocowanie dobranych zawodników i statystyk na potrzeby kolejnych analiz:
 
-Analiza4-0 - teamSet1, zestaw 0
-Analiza4-1 - teamSet1, zestaw 1
-Analiza4-2 - teamSet1, zestaw 2
-Analiza4-4 - teamSet2, zestaw 1
-Analiza4-5 - teamSet2, zestaw 2
-
+Analiza0 - teamSet1, zestaw 0
+Analiza1 - teamSet1, zestaw 1
+Analiza2 - teamSet1, zestaw 2
+Analiza3 - teamSet2, zestaw 1
+Analiza4 - teamSet2, zestaw 2
